@@ -1,0 +1,38 @@
+{
+  "term": "Spring",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ocw-course-site"
+  },
+  "course_image": {
+    "content": "8d44eaaf-4d72-4b56-97df-b584bc477e68",
+    "website": "ocw-course-site"
+  },
+  "course_title": "course_test",
+  "course_description": "101-course\\_test-1-2021",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "101",
+  "course_image_thumbnail": {
+    "content": "8d44eaaf-4d72-4b56-97df-b584bc477e68",
+    "website": "ocw-course-site"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "9025ad52-8663-4da1-8139-a081f690e552",
+  "site_short_id": "6.02-course-2021"
+}
