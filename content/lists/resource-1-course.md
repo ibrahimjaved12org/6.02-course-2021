@@ -1,0 +1,10 @@
+---
+content_type: resource-list
+description: Resource 1 Course Description
+draft: false
+resources:
+  content: []
+  website: ocw-course-site
+title: Resource 1 Course
+uid: c556b863-ddd7-4d5c-8108-968daeb1c211
+---
