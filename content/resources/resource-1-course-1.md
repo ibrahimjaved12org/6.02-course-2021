@@ -1,7 +1,7 @@
 ---
 content_type: resource
 draft: false
-file: /media/courses/ocw-course-site/8d44eaaf4d724b5697dfb584bc477e68_306574045_632801388216430_5815608607390015530_n.jpeg
+file: /media/courses/101-course_test-1-2021/8d44eaaf4d724b5697dfb584bc477e68_306574045_632801388216430_5815608607390015530_n.jpeg
 file_type: ''
 image_metadata:
   caption: ''
